@@ -7174,7 +7174,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Awalan",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8904,6 +8903,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Level Clicked",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13678,6 +13678,16 @@
                 },
                 {
                   "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Benar",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -15110,7 +15120,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Jawaban",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15557,6 +15566,26 @@
                     "TombolGO",
                     "ButtonFSM",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Level1Selesai",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierExp"
+                  },
+                  "parameters": [
+                    "\"Level\"",
+                    "\"1\"",
+                    "Level1Selesai"
                   ]
                 }
               ]
@@ -19677,6 +19706,16 @@
                 },
                 {
                   "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Benar",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -21556,6 +21595,26 @@
                     "TombolGO",
                     "ButtonFSM",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Level2Selesai",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierExp"
+                  },
+                  "parameters": [
+                    "\"Level\"",
+                    "\"2\"",
+                    "Level2Selesai"
                   ]
                 }
               ]
@@ -25676,6 +25735,16 @@
                 },
                 {
                   "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Benar",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -27550,6 +27619,26 @@
                     "TombolGO",
                     "ButtonFSM",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Level3Selesai",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierExp"
+                  },
+                  "parameters": [
+                    "\"Level\"",
+                    "\"3\"",
+                    "Level3Selesai"
                   ]
                 }
               ]
@@ -31670,6 +31759,16 @@
                 },
                 {
                   "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Benar",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -33544,6 +33643,26 @@
                     "TombolGO",
                     "ButtonFSM",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Level4Selesai",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierExp"
+                  },
+                  "parameters": [
+                    "\"Level\"",
+                    "\"4\"",
+                    "Level4Selesai"
                   ]
                 }
               ]
@@ -37664,6 +37783,16 @@
                 },
                 {
                   "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Benar",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -39538,6 +39667,26 @@
                     "TombolGO",
                     "ButtonFSM",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Level5Selesai",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierExp"
+                  },
+                  "parameters": [
+                    "\"Level\"",
+                    "\"5\"",
+                    "Level5Selesai"
                   ]
                 }
               ]
@@ -43658,6 +43807,16 @@
                 },
                 {
                   "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Benar",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -45532,6 +45691,26 @@
                     "TombolGO",
                     "ButtonFSM",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Level6Selesai",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierExp"
+                  },
+                  "parameters": [
+                    "\"Level\"",
+                    "\"6\"",
+                    "Level6Selesai"
                   ]
                 }
               ]
@@ -49652,6 +49831,16 @@
                 },
                 {
                   "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Benar",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -51526,6 +51715,26 @@
                     "TombolGO",
                     "ButtonFSM",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Level7Selesai",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierExp"
+                  },
+                  "parameters": [
+                    "\"Level\"",
+                    "\"7\"",
+                    "Level7Selesai"
                   ]
                 }
               ]
@@ -55646,6 +55855,16 @@
                 },
                 {
                   "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Benar",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -57520,6 +57739,26 @@
                     "TombolGO",
                     "ButtonFSM",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Level8Selesai",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierExp"
+                  },
+                  "parameters": [
+                    "\"Level\"",
+                    "\"8\"",
+                    "Level8Selesai"
                   ]
                 }
               ]
@@ -61623,6 +61862,16 @@
                 },
                 {
                   "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Benar",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -63497,6 +63746,26 @@
                     "TombolGO",
                     "ButtonFSM",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Level9Selesai",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierExp"
+                  },
+                  "parameters": [
+                    "\"Level\"",
+                    "\"9\"",
+                    "Level9Selesai"
                   ]
                 }
               ]
