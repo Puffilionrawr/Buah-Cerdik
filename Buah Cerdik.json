@@ -12,7 +12,7 @@
     "antialisingEnabledOnMobile": false,
     "folderProject": false,
     "orientation": "landscape",
-    "packageName": "com.solu.arsitek_dunia_blok",
+    "packageName": "com.solu.buah_cerdik",
     "pixelsRounding": false,
     "projectUuid": "5940c112-f2c5-4830-adad-0a1c8e5b3989",
     "scaleMode": "linear",
@@ -8043,7 +8043,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Volume",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8132,20 +8131,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolMusic",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -8533,20 +8519,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolSound",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -14244,7 +14217,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Volume",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14341,20 +14313,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolMusicSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -14750,20 +14709,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolSoundSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -20272,7 +20218,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Volume",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -20369,20 +20314,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolMusicSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -20778,20 +20710,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolSoundSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -26296,7 +26215,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Volume",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -26393,20 +26311,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolMusicSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -26802,20 +26707,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolSoundSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -32320,7 +32212,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Volume",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -32417,20 +32308,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolMusicSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -32826,20 +32704,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolSoundSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -38344,7 +38209,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Volume",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -38441,20 +38305,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolMusicSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -38850,20 +38701,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolSoundSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -44368,7 +44206,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Volume",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -44465,20 +44302,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolMusicSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -44874,20 +44698,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolSoundSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -50392,7 +50203,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Volume",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -50489,20 +50299,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolMusicSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -50898,20 +50695,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolSoundSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -56416,7 +56200,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Volume",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -56513,20 +56296,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolMusicSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -56922,20 +56692,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolSoundSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -62423,7 +62180,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Volume",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -62520,20 +62276,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolMusicSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
@@ -62929,20 +62672,7 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "SourisSurObjet"
-                          },
-                          "parameters": [
-                            "TombolSoundSet",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "MouseButtonFromTextPressed"
+                            "value": "MouseButtonFromTextReleased"
                           },
                           "parameters": [
                             "",
