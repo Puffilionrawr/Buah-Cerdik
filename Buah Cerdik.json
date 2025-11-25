@@ -2430,7 +2430,7 @@
     {
       "name": "MusicVolume",
       "type": "number",
-      "value": 0
+      "value": 50
     },
     {
       "name": "MusicVolumeString",
@@ -2440,7 +2440,7 @@
     {
       "name": "SoundVolume",
       "type": "number",
-      "value": 0
+      "value": 50
     },
     {
       "name": "SoundVolumeString",
