@@ -30,7 +30,7 @@
     "verticalSync": false,
     "platformSpecificAssets": {
       "android-icon-144": "",
-      "android-icon-192": "",
+      "android-icon-192": "Icon\\ICON (1).png",
       "android-icon-36": "",
       "android-icon-48": "",
       "android-icon-72": "",
@@ -44,7 +44,7 @@
       "ios-icon-144": "",
       "ios-icon-152": "",
       "ios-icon-167": "",
-      "ios-icon-180": "",
+      "ios-icon-180": "Icon\\ICONNN.png",
       "ios-icon-20": "",
       "ios-icon-29": "",
       "ios-icon-40": "",
@@ -1475,6 +1475,30 @@
         "kind": "image",
         "metadata": "",
         "name": "Icon\\ICON.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Icon/Group 96.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Icon\\Group 96.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Icon/ICON (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Icon\\ICON (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Icon/ICONNN.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Icon\\ICONNN.png",
         "smoothed": true,
         "userAdded": false
       }
